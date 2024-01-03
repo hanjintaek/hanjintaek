@@ -19,14 +19,14 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
 
-## 💻 Blog 💻
+ <h3>💻 Blog 💻</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://jintaek5182.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div><br>
 
-## 📞 Contact 📞 
+<h3>📞 Contact 📞</h3> 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:wlsxor5252@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
