@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7D358&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=000000&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+JinTaekHan+GitHub!👋)](https://git.io/typing-svg)
- 
-<div align="center">
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<div align="left">
+<h3>📚 Tech Stack 📚</h3>
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=html5&logoColor=white" > 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-round&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
